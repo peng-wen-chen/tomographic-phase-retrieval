@@ -6,7 +6,7 @@ clear
 input.RPP=0; % =1, if it is RPP; =0 if it is phantom
 input.num=1; % # of random masks
 input.NSR=0.00; %input.NSR=0.6;
-n=49; % n should be a square.
+n=36; % n should be a square.
 p=2*n-1; % p (the size of h is p*p) should be at least 2n-1
 p0=p; %(the size of g is p0*p0)
 m=n;
